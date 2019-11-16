@@ -1,0 +1,24 @@
+c:\users\albert\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Albert\Documents\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\Network Connections.exe.config
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\Network Connections.exe
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\Network Connections.pdb
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\Network Connections.exe.CodeAnalysisLog.xml
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\bin\Debug\Network Connections.exe.lastcodeanalysissucceeded
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\NetworkConnections.Properties.Resources.resources
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\Network Connections.exe
+C:\Users\Albert\OneDrive\Visual Studio 2012\Projects\NetworkConnections\WindowsFormsApplication1\obj\Debug\Network Connections.pdb
